@@ -1,4 +1,4 @@
-# Hi, I'm Mahmoud Ghonim 👋
+# Hi, I'm Mahmoud Ghonem 👋
 
 ### Full-Stack Machine Learning Engineer — GenAI · Multi-Agent Systems · Production ML
 
